@@ -1,0 +1,21 @@
+City,Temperature (°C),Humidity (%),Wind Speed (m/s)
+Mumbai,29,32,0
+Delhi,20,49,1.03
+Bangalore,24,39,2.57
+Hyderabad,24,33,2.57
+Chennai,27,78,3.09
+Kolkata,24,53,2.06
+Pune,26,15,1.23
+Ahmedabad,25,36,1.03
+Jaipur,23,28,2.57
+Lucknow,19,52,2.57
+Kanpur,21,17,0.9
+Nagpur,24,23,1.54
+Indore,23,33,0
+Bhopal,24,16,0.4
+Visakhapatnam,26,83,1.03
+Patna,21,64,0
+Ludhiana,16,42,2.66
+Agra,22,18,0.35
+Nashik,24,15,2.32
+Vadodara,28,18,2.25
